@@ -1,8 +1,8 @@
-# Synonyms-finding-REST-API-in-Java
+# Thesaurus - A REST API in Java
 
-##### - REST API to request synonyms of a word (thesaurus)
+##### - This is an API to request the synonyms of a word, much like a thesaurus.
 
-##### - Developed in Java using SpringBoot, Maven for web layer dependency management, and JUnit for automated unit testing
+##### - It is developed in Java using SpringBoot application framework, Maven for web layer dependency management, and JUnit ##### for automated unit testing
 
 ### Instructions to run on terminal/command line : 
 
