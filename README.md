@@ -19,8 +19,8 @@ To run:
   mvn spring-boot:run
 
 URL format:
-    http://localhost:8080/words/<letters>
+    http://<i></i>localhost:8080/words/<letters>
 
 Example command line usage:
-    > curl http://localhost:8080/words/hat
+    > curl http://<i></i>localhost:8080/words/hat
 
